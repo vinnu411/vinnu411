@@ -1,14 +1,14 @@
-![Header](./your-header-image-name.png)
-<h1 align="center">Hi 👋, I'm Vineeta</h1>
+![Header](github-header-image.png)
+<h1 align="center"> Hola 👋 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinnu411&label=Profile%20views&color=0e75b6&style=flat" alt="vinnu411" /> </p>
 
 - 🌱 I’m currently learning **Javascript,Django**
 
-- 👨‍💻 All of my projects are available at [https://enhpbonznmnlz6fbvynfxq.on.drv.tw/www.vineetasportfolio.com/](https://enhpbonznmnlz6fbvynfxq.on.drv.tw/www.vineetasportfolio.com/)
+- 👨‍💻 All of my projects are available at [https://vinnu411.github.io/vineetaportfolio/](https://vinnu411.github.io/vineetaportfolio/)
 
-- 💬 Ask me about **HTML,CSS,SQL**
+- 💬 Ask me about **HTML,CSS,SQL,javascript**
 
 - 📫 How to reach me **vineetagiduturi@gmail.com**
 
