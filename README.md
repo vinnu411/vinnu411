@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **vineetagiduturi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-Jrm2GFXb4k4YS6aRz4OjdpJ1TcOOTIr/view?usp=drive_link](https://drive.google.com/file/d/1-Jrm2GFXb4k4YS6aRz4OjdpJ1TcOOTIr/view?usp=drive_link)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-Vmuegvhn195RiVBKbWkgRiHSN3wLdSw/view?usp=sharing](https://drive.google.com/file/d/1-Vmuegvhn195RiVBKbWkgRiHSN3wLdSw/view?usp=sharing)
 - ⚡ Fun fact **I think I am so open minded**
 
 <h3 align="left">Connect with me:</h3>
