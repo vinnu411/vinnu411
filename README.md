@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinnu411&label=Profile%20views&color=0e75b6&style=flat" alt="vinnu411" /> </p>
 
-- 🌱 I’m currently learning **Javascript,Django**
+- 🌱 I’m currently learning **MongoDb**
 
-- 👨‍💻 All of my projects are available at [https://vinnu411.github.io/vineetaportfolio/](https://vinnu411.github.io/vineetaportfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/vinnu411]
 
-- 💬 Ask me about **HTML,CSS,SQL,javascript**
+- 💬 Ask me about **HTML,CSS,SQL,javascript,React,Nodejs,canva**
 
 - 📫 How to reach me **vineetagiduturi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-Vmuegvhn195RiVBKbWkgRiHSN3wLdSw/view?usp=sharing](https://drive.google.com/file/d/1-Vmuegvhn195RiVBKbWkgRiHSN3wLdSw/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15Fy7Q_n9Kq_crkaLYjTdd2KhMsMHPwky/view?usp=drive_link]
 - ⚡ Fun fact **I think I am so open minded**
 
 <h3 align="left">Connect with me:</h3>
